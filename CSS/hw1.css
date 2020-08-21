@@ -70,6 +70,7 @@ img{
   width:150px;
   border:2px black solid;
   margin:0 auto;
+  margin-top:10px;
 }
 .right{
   clear:both;
