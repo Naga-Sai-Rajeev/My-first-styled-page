@@ -30,7 +30,7 @@ nav a:link{
   margin:5px 1%;
   -webkit-border-radius:3px;
   border-radius:3px;
-  background:#B3B3B3;
+
   background:rgba(226,227,228,0.3);
 }
 nav a:visited{
@@ -67,7 +67,7 @@ img{
   height:90px;
   width:150px;
   border:3px black solid;
-  margin:20px 20px;
+  margin:0 auto;
 }
 .right{
   clear:both;
